@@ -13,7 +13,7 @@ html {
 
 .portada {
 
-    background-image: url(../img/portada.jpg);
+    background-image: url(/img/portada.jpg);
 }
 
 img {
